@@ -1,0 +1,26 @@
+Nützliche Links
+
+ERD erstellen:
+https://docs.oracle.com/cd/A87860_01/doc/java.817/a81358/05_dev1.htm
+http://www.postgresql.org/docs/8.2/static/datatype-numeric.html
+http://www.postgresql.org/docs/8.2/static/sql-createsequence.html
+
+Create-Skript erstellen
+http://www.postgresql.org/docs/current/interactive/datatype-numeric.html#DATATYPE-SERIAL
+http://www.postgresql.org/docs/9.0/static/functions-matching.htmlhttp://www.postgresql.org/docs/current/static/functions-matching.html
+
+Data-Generator
+https://www.cri.ensmp.fr/people/coelho/datafiller.html
+https://www.cri.ensmp.fr/people/coelho/datafiller
+
+weitere ohne kategorie
+(noch offen:)
+http://ulf.zeitform.de/en/documents/postgresql.html
+http://www.postgresql.org/docs/8.2/static/datatype-numeric.html
+http://www.postgresql.org/docs/8.2/static/sql-createsequence.html
+http://www.tutorialspoint.com/sql/sql-unique.htm
+https://startpage.com/do/dsearch?query=zyklische+FOREIGN+KEY&cat=web&pl=chrome&language=deutsch
+http://www.dbai.tuwien.ac.at/education/dbs/current/folien/SQL.pdf
+http://www.postgresql.org/docs/current/static/ddl-constraints.html
+http://www.postgresql.org/docs/current/static/sql-createtable.html#SQL-CREATETABLE-EXCLUDE
+http://www.postgresql.org/docs/9.4/static/sql-copy.html
