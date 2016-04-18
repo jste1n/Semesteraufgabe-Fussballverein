@@ -1,0 +1,5 @@
+constrains nach der transaktion
+identifyed by
+obmaqnn unique
+trainer unique
+
